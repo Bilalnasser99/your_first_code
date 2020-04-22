@@ -1,0 +1,9 @@
+int main ()
+{
+int i;
+For (i=0;i<31;i++)
+{
+printf ("Holberton\n");
+}
+return 0;
+}
